@@ -139,7 +139,7 @@ class _PostPageState extends State<PostPage> {
                         child: CircularProgressIndicator(),
                       );
                     } else {
-                      return const Text("Error");
+                      return const Text("Err");
                     }
                   },
                 ),
