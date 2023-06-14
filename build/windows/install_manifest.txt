@@ -1,0 +1,9 @@
+C:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

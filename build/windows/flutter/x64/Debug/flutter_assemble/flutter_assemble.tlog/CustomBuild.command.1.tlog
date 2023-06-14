@@ -1,0 +1,28 @@
+^C:\USERS\ASUS\ONEDRIVE\DESKTOP\TUGAS-KELOMPOK-CONSUME-API\TUGAS-KELOMPOK-CONSUME-API\BUILD\WINDOWS\CMAKEFILES\94C41DB8C2909B28E0ABF648A42EE6E3\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter PROJECT_DIR=C:\Users\ASUS\OneDrive\Desktop\tugas-kelompok-consume-api\tugas-kelompok-consume-api FLUTTER_ROOT=C:\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\ASUS\OneDrive\Desktop\tugas-kelompok-consume-api\tugas-kelompok-consume-api\windows\flutter\ephemeral PROJECT_DIR=C:\Users\ASUS\OneDrive\Desktop\tugas-kelompok-consume-api\tugas-kelompok-consume-api FLUTTER_TARGET=C:\Users\ASUS\OneDrive\Desktop\tugas-kelompok-consume-api\tugas-kelompok-consume-api\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\ASUS\OneDrive\Desktop\tugas-kelompok-consume-api\tugas-kelompok-consume-api\.dart_tool\package_config.json C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ASUS\ONEDRIVE\DESKTOP\TUGAS-KELOMPOK-CONSUME-API\TUGAS-KELOMPOK-CONSUME-API\BUILD\WINDOWS\CMAKEFILES\33B6F006F770EAF5AB9F99F3745884A9\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ASUS\ONEDRIVE\DESKTOP\TUGAS-KELOMPOK-CONSUME-API\TUGAS-KELOMPOK-CONSUME-API\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/windows -BC:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/build/windows --check-stamp-file C:/Users/ASUS/OneDrive/Desktop/tugas-kelompok-consume-api/tugas-kelompok-consume-api/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

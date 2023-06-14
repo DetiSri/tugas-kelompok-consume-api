@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ASUS\OneDrive\Desktop\tugas-kelompok-consume-api\tugas-kelompok-consume-api\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ASUS\OneDrive\Desktop\tugas-kelompok-consume-api\tugas-kelompok-consume-api\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ASUS\OneDrive\Desktop\tugas-kelompok-consume-api\tugas-kelompok-consume-api\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ASUS\OneDrive\Desktop\tugas-kelompok-consume-api\tugas-kelompok-consume-api\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{98CEDD39-C38C-332B-9A56-01B28D18AC63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D02DE7E3-829E-3B31-AA31-065139B3EB13}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

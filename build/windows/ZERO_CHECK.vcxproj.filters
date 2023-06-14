@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ASUS\OneDrive\Desktop\tugas-kelompok-consume-api\tugas-kelompok-consume-api\build\windows\CMakeFiles\a0b5911e2171cae530cce8c740bf2cac\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{98CEDD39-C38C-332B-9A56-01B28D18AC63}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
